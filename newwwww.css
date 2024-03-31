@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+
+
+
+.container{
+    height: 741px;
+    width: 100%;
+    background-color: silver;
+}
+.signup{
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    border: 1px,solid;
+
+}

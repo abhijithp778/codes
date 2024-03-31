@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    background-color: silver;
+}
+.first img{
+    height: 105px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+mix-blend-mode: color-burn;
+}
